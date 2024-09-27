@@ -35,3 +35,13 @@ nohup: ignoring input
 [I 2024-09-27 08:58:50.553 ServerApp] Kernel started: f7f71b12-ce77-41ca-9394-54d89562b469
 [I 2024-09-27 08:58:51.328 ServerApp] Connecting to kernel f7f71b12-ce77-41ca-9394-54d89562b469.
 [I 2024-09-27 08:59:19.955 ServerApp] Saving file at /C3_W3_Lab_1_Row_vs_Column_Storage.ipynb
+[I 2024-09-27 09:00:50.089 ServerApp] 302 GET / (@205.210.31.130) 0.48ms
+[I 2024-09-27 09:00:50.320 LabApp] 302 GET /lab? (@205.210.31.130) 0.67ms
+[I 2024-09-27 09:00:50.925 ServerApp] Saving file at /C3_W3_Lab_1_Row_vs_Column_Storage_Solution.ipynb
+[I 2024-09-27 09:01:21.049 ServerApp] Saving file at /C3_W3_Lab_1_Row_vs_Column_Storage.ipynb
+[I 2024-09-27 09:03:22.623 ServerApp] Saving file at /C3_W3_Lab_1_Row_vs_Column_Storage.ipynb
+[I 2024-09-27 09:05:24.829 ServerApp] Saving file at /C3_W3_Lab_1_Row_vs_Column_Storage.ipynb
+[I 2024-09-27 09:07:26.189 ServerApp] Saving file at /C3_W3_Lab_1_Row_vs_Column_Storage.ipynb
+[I 2024-09-27 09:09:27.527 ServerApp] Saving file at /C3_W3_Lab_1_Row_vs_Column_Storage.ipynb
+[I 2024-09-27 09:15:28.874 ServerApp] Saving file at /C3_W3_Lab_1_Row_vs_Column_Storage.ipynb
+[I 2024-09-27 09:17:30.816 ServerApp] Saving file at /C3_W3_Lab_1_Row_vs_Column_Storage.ipynb
