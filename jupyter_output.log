@@ -1,0 +1,37 @@
+nohup: ignoring input
+[I 2024-09-27 08:56:37.667 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-09-27 08:56:37.672 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-09-27 08:56:37.679 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-09-27 08:56:38.084 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-09-27 08:56:38.116 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-09-27 08:56:38.119 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-09-27 08:56:38.121 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-09-27 08:56:38.124 LabApp] JupyterLab extension loaded from /home/ec2-user/environment/jupyterlab-venv/lib64/python3.9/site-packages/jupyterlab
+[I 2024-09-27 08:56:38.124 LabApp] JupyterLab application directory is /home/ec2-user/environment/jupyterlab-venv/share/jupyter/lab
+[I 2024-09-27 08:56:38.125 LabApp] Extension Manager is 'pypi'.
+[I 2024-09-27 08:56:38.132 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-09-27 08:56:38.133 ServerApp] Serving notebooks from local directory: /home/ec2-user/environment
+[I 2024-09-27 08:56:38.133 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2024-09-27 08:56:38.133 ServerApp] http://ip-10-0-1-62.ec2.internal:8888/lab?token=f2656480d9c1134532e89e575583bd1413a54e3350558d17
+[I 2024-09-27 08:56:38.134 ServerApp]     http://127.0.0.1:8888/lab?token=f2656480d9c1134532e89e575583bd1413a54e3350558d17
+[I 2024-09-27 08:56:38.134 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2024-09-27 08:56:38.140 ServerApp] No web browser found: Error('could not locate runnable browser').
+[C 2024-09-27 08:56:38.140 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/ec2-user/.local/share/jupyter/runtime/jpserver-2376-open.html
+    Or copy and paste one of these URLs:
+        http://ip-10-0-1-62.ec2.internal:8888/lab?token=f2656480d9c1134532e89e575583bd1413a54e3350558d17
+        http://127.0.0.1:8888/lab?token=f2656480d9c1134532e89e575583bd1413a54e3350558d17
+[I 2024-09-27 08:56:38.391 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-09-27 08:57:17.403 LabApp] Build is up to date
+[W 2024-09-27 08:57:18.227 ServerApp] Notebook C3_W3_Lab_1_Row_vs_Column_Storage.ipynb is not trusted
+[I 2024-09-27 08:57:19.745 ServerApp] Kernel started: 8f237666-8806-49d3-b024-5ee66b13cc63
+[I 2024-09-27 08:57:20.519 ServerApp] Connecting to kernel 8f237666-8806-49d3-b024-5ee66b13cc63.
+[I 2024-09-27 08:57:21.100 ServerApp] Connecting to kernel 8f237666-8806-49d3-b024-5ee66b13cc63.
+[I 2024-09-27 08:57:21.645 ServerApp] Connecting to kernel 8f237666-8806-49d3-b024-5ee66b13cc63.
+[I 2024-09-27 08:58:31.029 ServerApp] Saving file at /src/env
+[W 2024-09-27 08:58:48.862 ServerApp] Notebook C3_W3_Lab_1_Row_vs_Column_Storage_Solution.ipynb is not trusted
+[I 2024-09-27 08:58:50.553 ServerApp] Kernel started: f7f71b12-ce77-41ca-9394-54d89562b469
+[I 2024-09-27 08:58:51.328 ServerApp] Connecting to kernel f7f71b12-ce77-41ca-9394-54d89562b469.
+[I 2024-09-27 08:59:19.955 ServerApp] Saving file at /C3_W3_Lab_1_Row_vs_Column_Storage.ipynb
